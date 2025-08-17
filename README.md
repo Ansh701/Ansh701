@@ -24,20 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh701&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh701&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansh701&theme=radical&hide_border=true&background=0D1117)
-
-![3D Profile](https://github.com/Ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ansh0/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
